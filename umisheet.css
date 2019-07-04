@@ -1,0 +1,135 @@
+*{
+	margin: 0 auto;
+	padding: 0px;
+}
+
+header{
+	height: 60px;
+}
+
+.header-contents{
+	overflow: hidden;
+	width: 950px;
+	font-family: Yu Gothic;
+}
+
+.header-logo{
+	float: left;
+	margin: 5px 0 0 80px;
+}
+
+.header-contents ul{
+	overflow: hidden;
+	float: right;
+	width: 250px;
+	margin-top: 30px;
+}
+
+.header-contents li{
+	list-style: none;
+	float: left;
+	margin-right: 20px;
+}
+
+.home a:link{
+	text-decoration: none;
+}
+
+.home a:visited{
+	color: black;
+}
+
+.home a:hover{
+	text-decoration: underline;
+	font-size: 16px;
+}
+
+
+main{
+	width: 100%;
+	background-image: url("main.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	height: 280px;
+}
+
+.content{
+	width: 900px;
+	margin-top: 20px;
+	overflow: hidden;
+}
+
+.content h2{
+	text-align: center;
+	font-family: Yu Gothic;
+	border-bottom: 2px solid;
+	border-color: #FF8C00;
+	margin-bottom: 20px;
+}
+
+.content_left{
+	float: left;
+}
+
+.content_right{
+	float: right;
+	width: 400px;
+	word-break: break-all;
+	font-family: Yu Mincho;
+}
+
+.spot{
+	width: 900px;
+	margin-top: 20px;
+}
+
+.spot h2{
+	text-align: center;
+	font-family: Yu Gothic;
+	border-bottom: 2px solid;
+	border-color: #FF8C00;
+	margin-bottom: 20px;
+}
+
+.spot ul{
+	width: 900px;
+	margin-left: 25px;
+}
+
+.spot li{
+	list-style: none;
+	width: 300px;
+	float: left;
+}
+
+.spot_text{
+	width: 250px;
+	padding-right: 35px;
+	font-family: Yu Mincho;
+}
+
+.button_detail{
+	width: 210px;
+	text-align: center;
+	margin: 20px;
+	padding: 12px 0 12px 0;
+	background-color: #FF8C00;
+	font-family: Yu Gothic;
+	font-weight: bold;
+	border-radius: 7px;
+}
+
+.spot a:link{
+	text-decoration: none;
+}
+
+.spot a:visited{
+	color: black;
+}-
+
+
+
+
+
+
+
